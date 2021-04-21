@@ -13,6 +13,10 @@
 
 - 💬 Ask me about **Angular4+**
 
+- 💬 Ask me about **Express**
+
+- 💬 Ask me about **Typescript**
+
 - 📫 How to reach me **cristiansotomayor.dev@gmail.com**
 
 - 📄 Know about my experiences [https://cutt.ly/dkQj7jd](https://cutt.ly/dkQj7jd)
