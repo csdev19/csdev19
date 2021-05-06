@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **cristiansotomayor.dev@gmail.com**
 
+- Win a competition of free software [gnome wiki](https://wiki.gnome.org/Hackfests/PeruRumboGSoC2018)
+
 - 📄 Know about my experiences [https://cutt.ly/dkQj7jd](https://cutt.ly/dkQj7jd)
 
 <h3 align="left">Connect with me:</h3>
