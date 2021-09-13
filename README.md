@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Angular4+**
+- 💬 Ask me about **Angular4+, React**
 
-- 💬 Ask me about **Express**
+- 💬 Ask me about **Express, NestJS**
 
-- 💬 Ask me about **Typescript**
+- 💬 Ask me about **Javascript and Typescript**
 
 - 📫 How to reach me **cristiansotomayor.dev@gmail.com**
 
