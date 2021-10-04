@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Pamer**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](cristiansotomayor-dev.medium.com)
 
 - 💬 Ask me about **Angular4+, React**
 
