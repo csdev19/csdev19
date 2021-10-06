@@ -1,4 +1,4 @@
-<div align="center"><img width="80px" src="https://s3.us-east-2.amazonaws.com/csdev19.personal/logo.png" alt="csdev"></div>
+<div align="center"><img width="80px" src="https://s3.us-east-2.amazonaws.com/csdev19.personal/new_logo.png" alt="csdev"></div>
 <h1 align="center">Hi 👋, I'm Cristian Sotomayor</h1>
 <h3 align="center">Soy un desarrollador de software por pasión, vocación y profesión. Me encanta ser retado constantemente a superar mis miedos y limites.</h3>
 
