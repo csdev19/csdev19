@@ -22,7 +22,7 @@
 
 - Win a competition of free software [gnome wiki](https://wiki.gnome.org/Hackfests/PeruRumboGSoC2018) with my old username pystudent1913
 
-- 📄 Know about my experiences [https://cutt.ly/dkQj7jd](https://cutt.ly/dkQj7jd)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Wy9OrjhQmzAfKWnj9tbkgcsPcuQAXsxa/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
