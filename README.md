@@ -8,8 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiandev19&label=Profile%20views&color=0e75b6&style=flat" alt="cristiandev19" /> </p>
 <p align="left"> <a href="https://twitter.com/csdev19" target="blank"><img src="https://img.shields.io/twitter/follow/csdev19?logo=twitter&style=for-the-badge" alt="csdev19" /></a> </p>
 
-<div>
-  <div>
+<div style="display: flex;">
+  <div style="width: 50%;">
+
 - 🔭 I’m currently working on **Pamer**
 
 - 📝 I regularly write articles on [Medium](https://cristiansotomayor-dev.medium.com)
@@ -27,7 +28,7 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Wy9OrjhQmzAfKWnj9tbkgcsPcuQAXsxa/view)
 
   </div>
-  <div>
+  <div style="width: 50%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/csdev19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cristiandev2" height="30" width="40" /></a>
