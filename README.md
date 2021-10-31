@@ -1,6 +1,6 @@
 <div align="center"><img width="80px" src="https://s3.us-east-2.amazonaws.com/csdev19.personal/new_logo.png" alt="csdev"></div>
 <h1 align="center">Hi 👋, I'm Cristian Sotomayor</h1>
-<h3 align="center">A fullstack Developer with more than 3 years of experience developing software, leading development teams, implementing new fancy technologies and giving techinal advice to IT teams 🔥.</h3>
+<h3 align="center">A fullstack Developer with more than 3 years of experience developing software, leading development teams, implementing new fancy technologies and giving techinal advice to IT teams 🔥</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiandev19&column=4&row=1" alt="cristiandev19" /></a> </p>
 
