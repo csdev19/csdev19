@@ -12,11 +12,7 @@
 
 - 📝 I regularly write articles on [Medium](https://cristiansotomayor-dev.medium.com)
 
-- 💬 Ask me about **Angular4+, React**
-
-- 💬 Ask me about **Express, NestJS**
-
-- 💬 Ask me about **Javascript and Typescript**
+- 💬 Ask me about **Javascript, Typescript, Angular4+, React, Vue, Nextjs, Express, NestJS**
 
 - 📫 How to reach me **cristiansotomayor.dev@gmail.com**
 
